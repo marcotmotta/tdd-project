@@ -1,0 +1,3 @@
+O processo de testar segue um fluxo definido.
+O objetivo desse fluxo é garantir que os testes sejam incrementados periodicamente da forma mais otimizada possível, evitando trabalhos desnecessários.
+Apesar das varias camadas no fluxo de testes, o processo é simples e, se executado corretamente, traz os resultados esperados.
