@@ -1,0 +1,2 @@
+1. Testes de unidade são consideravelmente mais simples e rapidos enquanto funcionais são longos e podem ser mais complexos.
+2. Testes funcionais testam integrações entre o sistema enquanto testes de unidade etstam uma parte isolada e específica.
